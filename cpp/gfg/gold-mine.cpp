@@ -56,6 +56,6 @@ int main()
         {0, 6, 1, 2} 
     }; 
     int m = 4, n = 4; 
-    cout << getMaxGold(gold, m, n); 
+    cout << getMaxGold(gold, m, n) << endl; 
     return 0; 
 } 
